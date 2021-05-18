@@ -23,6 +23,6 @@ A minimum spanning tree (MST) or minimum weight spanning tree is a subset of the
 - Selection Sort	Ω(n^2)	θ(n^2)	O(n^2) 
 - Insertion Sort	Ω(n)	θ(n^2)	O(n^2)
 - Quick Sort	Ω(n log(n))	θ(n log(n))	O(n^2)
-- Bucket Sort	Ω(n+k)	θ(n+k)	O(n^2)
+- Bubble sort O(N^2)
 
 
