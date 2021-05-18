@@ -1,6 +1,6 @@
 # DAA-Practical-2021
 PRACTICAL EXAM DAA YEAR 2021 BY - SANKALP JHA
-# Complaxity and uses of topics in question
+# ⚡ Complaxity and uses of topics in question
 
 - ## RB-tree
 A red-black tree is a kind of self-balancing binary search tree where each node has an extra bit, and that bit is often interpreted as the colour (red or black)
@@ -8,7 +8,7 @@ A red-black tree is a kind of self-balancing binary search tree where each node 
 - Search- T(N) is	O(log n)
 - Delete- T(N) is	O(log n)
 **“N” is the total number of elements in the red-black tree. ** 
-## APPLICATIONS
+### APPLICATIONS
 
 - Java: java.util.TreeMap , java.util.TreeSet .
 - C++ STL: map, multimap, multiset.
